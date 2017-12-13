@@ -1,3 +1,7 @@
+body {
+  background-image: url("the_flatiron_building.png")
+}
+
 .hero {
 background-image: url("the_flatiron_building.png");
 text-align: center;
